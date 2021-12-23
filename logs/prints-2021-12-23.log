@@ -1,0 +1,28 @@
+16:22:51.723 [main] INFO  resources.base - Driver is initialized
+16:23:04.849 [main] INFO  resources.base - Navigated to the URL
+16:23:05.845 [main] INFO  resources.base - Drop-down Clicked
+16:23:08.946 [main] INFO  resources.base - Drop-down Asserted Successfully
+16:23:09.461 [main] INFO  resources.base - Radio Button Clicked
+16:23:09.525 [main] INFO  resources.base - Radio Button Asserted Successfully
+16:23:10.054 [main] INFO  resources.base - Open New Tab Button Clicked
+16:23:10.127 [main] INFO  resources.base - Switched to another window
+16:23:18.512 [main] INFO  resources.base - back to main window
+16:23:18.513 [main] INFO  resources.base - Open New Tab Button Asserted Successfully
+16:23:18.760 [main] INFO  resources.base - Disable Button Clicked
+16:23:19.098 [main] INFO  resources.base - Disable Button Asserted Successfully
+16:23:19.689 [main] INFO  resources.base - Name entered in name box
+16:23:21.118 [main] INFO  resources.base - Confirm Button Clicked
+16:23:22.183 [main] INFO  resources.base - Confirm Button Asserted Successfully
+16:23:22.631 [main] INFO  resources.base - Name entered in name box
+16:23:24.088 [main] INFO  resources.base - Alert Button Clicked
+16:23:25.145 [main] INFO  resources.base - Alert Button Asserted Successfully
+16:23:25.768 [main] INFO  resources.base - Enable Button Clicked
+16:23:26.093 [main] INFO  resources.base - Enable Button Asserted Successfully
+16:23:26.234 [main] INFO  resources.base - Window scrolled to make webtable visible
+16:23:26.933 [main] INFO  resources.base - Price of WebTable content Asserted Successfully
+16:23:27.473 [main] INFO  resources.base - Show Button Clicked
+16:23:27.972 [main] INFO  resources.base - Show Button Asserted Successfully
+16:23:28.474 [main] INFO  resources.base - Hide Button Clicked
+16:23:28.600 [main] INFO  resources.base - Hide Button Asserted Successfully
+16:23:32.294 [main] INFO  resources.base - Mouse Hovering
+16:23:37.037 [main] INFO  resources.base - Reload Option Clicked from dropdown

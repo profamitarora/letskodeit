@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 16, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 113.972 s <<< FAILURE! - in TestSuite
-Academy.LoginPageTestCases.intentionalFailure  Time elapsed: 0.246 s  <<< FAILURE!
+Tests run: 16, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 114.867 s <<< FAILURE! - in TestSuite
+Academy.LoginPageTestCases.intentionalFailure  Time elapsed: 0.226 s  <<< FAILURE!
 java.lang.AssertionError: expected [Forgot Password] but found [Forgot Password?]
 	at Academy.LoginPageTestCases.intentionalFailure(LoginPageTestCases.java:59)
 

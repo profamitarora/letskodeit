@@ -1,21 +1,13 @@
-04:31:00.775 [main] INFO  resources.base - Mouse Hover and Reload action Asserted Successfully
-04:31:01.068 [main] INFO  resources.base - Total Links on the Main Page counted : 21
-04:31:01.069 [main] INFO  resources.base - Main Page Link count Asserted Successfully
-04:31:02.370 [main] INFO  resources.base - Total Links in the Frame counted : 25
-04:31:02.371 [main] INFO  resources.base - Frame Link count Asserted Successfully
-04:31:09.399 [main] INFO  resources.base - Driver is initialized
-04:31:21.836 [main] INFO  resources.base - Navigated to the URL
-04:31:25.793 [main] INFO  resources.base - email entered for user
-04:31:26.304 [main] INFO  resources.base - password entered for user
-04:31:29.721 [main] INFO  resources.base - Invalid Creds Text Asserted Successfully
-04:31:33.121 [main] INFO  resources.base - email entered for user
-04:31:33.898 [main] INFO  resources.base - password entered for user
-04:31:37.750 [main] INFO  resources.base - Invalid Creds Text Asserted Successfully
-04:39:46.454 [main] INFO  resources.base - Driver is initialized
-04:39:59.779 [main] INFO  resources.base - Navigated to the URL
-04:40:04.433 [main] INFO  resources.base - email entered for user
-04:40:04.962 [main] INFO  resources.base - password entered for user
-04:40:10.982 [main] INFO  resources.base - Invalid Creds Text Asserted Successfully
-04:40:14.783 [main] INFO  resources.base - email entered for user
-04:40:15.336 [main] INFO  resources.base - password entered for user
-04:40:18.995 [main] INFO  resources.base - Invalid Creds Text Asserted Successfully
+16:23:37.415 [main] INFO  resources.base - Mouse Hover and Reload action Asserted Successfully
+16:23:37.554 [main] INFO  resources.base - Total Links on the Main Page counted : 21
+16:23:37.555 [main] INFO  resources.base - Main Page Link count Asserted Successfully
+16:23:38.416 [main] INFO  resources.base - Total Links in the Frame counted : 25
+16:23:38.416 [main] INFO  resources.base - Frame Link count Asserted Successfully
+16:23:45.854 [main] INFO  resources.base - Driver is initialized
+16:23:58.339 [main] INFO  resources.base - Navigated to the URL
+16:24:02.082 [main] INFO  resources.base - email entered for user
+16:24:02.610 [main] INFO  resources.base - password entered for user
+16:24:06.663 [main] INFO  resources.base - Invalid Creds Text Asserted Successfully
+16:24:09.978 [main] INFO  resources.base - email entered for user
+16:24:10.447 [main] INFO  resources.base - password entered for user
+16:24:14.552 [main] INFO  resources.base - Invalid Creds Text Asserted Successfully

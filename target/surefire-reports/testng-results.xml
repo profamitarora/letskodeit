@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" total="16" passed="15">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="96635" started-at="2021-12-21T23:00:02Z" finished-at="2021-12-21T23:01:38Z">
+  <suite name="Suite" duration-ms="93635" started-at="2021-12-23T10:52:41Z" finished-at="2021-12-23T10:54:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="96635" started-at="2021-12-21T23:00:02Z" finished-at="2021-12-21T23:01:38Z">
+    <test name="Test" duration-ms="93635" started-at="2021-12-23T10:52:41Z" finished-at="2021-12-23T10:54:15Z">
       <class name="Academy.LoginPageTestCases">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="initialize" is-config="true" duration-ms="17855" started-at="2021-12-22T04:31:04Z" finished-at="2021-12-22T04:31:21Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="initialize" is-config="true" duration-ms="17759" started-at="2021-12-23T16:23:40Z" finished-at="2021-12-23T16:23:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="invalidCredsTextVerification(java.lang.String, java.lang.String)[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="invalidCredsTextVerification" duration-ms="7843" started-at="2021-12-22T04:31:21Z" data-provider="getData" finished-at="2021-12-22T04:31:29Z">
+        <test-method status="PASS" signature="invalidCredsTextVerification(java.lang.String, java.lang.String)[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="invalidCredsTextVerification" duration-ms="8285" started-at="2021-12-23T16:23:58Z" data-provider="getData" finished-at="2021-12-23T16:24:06Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidCredsTextVerification -->
-        <test-method status="PASS" signature="invalidCredsTextVerification(java.lang.String, java.lang.String)[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="invalidCredsTextVerification" duration-ms="8027" started-at="2021-12-22T04:31:29Z" data-provider="getData" finished-at="2021-12-22T04:31:37Z">
+        <test-method status="PASS" signature="invalidCredsTextVerification(java.lang.String, java.lang.String)[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="invalidCredsTextVerification" duration-ms="7887" started-at="2021-12-23T16:24:06Z" data-provider="getData" finished-at="2021-12-23T16:24:14Z">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidCredsTextVerification -->
-        <test-method status="FAIL" signature="intentionalFailure()[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="intentionalFailure" duration-ms="220" started-at="2021-12-22T04:31:37Z" depends-on-methods="Academy.LoginPageTestCases.invalidCredsTextVerification" finished-at="2021-12-22T04:31:37Z">
+        <test-method status="FAIL" signature="intentionalFailure()[pri:0, instance:Academy.LoginPageTestCases@1115ec15]" name="intentionalFailure" duration-ms="206" started-at="2021-12-23T16:24:14Z" depends-on-methods="Academy.LoginPageTestCases.invalidCredsTextVerification" finished-at="2021-12-23T16:24:14Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Forgot Password] but found [Forgot Password?]]]>
@@ -92,63 +92,63 @@
         </test-method> <!-- intentionalFailure -->
       </class> <!-- Academy.LoginPageTestCases -->
       <class name="Academy.HomePageTestCases">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="initialize" is-config="true" duration-ms="23020" started-at="2021-12-22T04:30:02Z" finished-at="2021-12-22T04:30:25Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="initialize" is-config="true" duration-ms="23052" started-at="2021-12-23T16:22:41Z" finished-at="2021-12-23T16:23:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="selectDropDownVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="selectDropDownVerification" duration-ms="4322" started-at="2021-12-22T04:30:25Z" finished-at="2021-12-22T04:30:29Z">
+        <test-method status="PASS" signature="selectDropDownVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="selectDropDownVerification" duration-ms="4044" started-at="2021-12-23T16:23:04Z" finished-at="2021-12-23T16:23:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectDropDownVerification -->
-        <test-method status="PASS" signature="radioButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="radioButtonVerification" duration-ms="762" started-at="2021-12-22T04:30:29Z" finished-at="2021-12-22T04:30:30Z">
+        <test-method status="PASS" signature="radioButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="radioButtonVerification" duration-ms="530" started-at="2021-12-23T16:23:08Z" finished-at="2021-12-23T16:23:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- radioButtonVerification -->
-        <test-method status="PASS" signature="openNewTabVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="openNewTabVerification" duration-ms="9330" started-at="2021-12-22T04:30:30Z" finished-at="2021-12-22T04:30:39Z">
+        <test-method status="PASS" signature="openNewTabVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="openNewTabVerification" duration-ms="8987" started-at="2021-12-23T16:23:09Z" finished-at="2021-12-23T16:23:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openNewTabVerification -->
-        <test-method status="PASS" signature="disableButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="disableButtonVerification" duration-ms="610" started-at="2021-12-22T04:30:39Z" finished-at="2021-12-22T04:30:40Z">
+        <test-method status="PASS" signature="disableButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="disableButtonVerification" duration-ms="581" started-at="2021-12-23T16:23:18Z" finished-at="2021-12-23T16:23:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- disableButtonVerification -->
-        <test-method status="PASS" signature="confirmButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="confirmButtonVerification" duration-ms="3422" started-at="2021-12-22T04:30:40Z" finished-at="2021-12-22T04:30:43Z">
+        <test-method status="PASS" signature="confirmButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="confirmButtonVerification" duration-ms="3084" started-at="2021-12-23T16:23:19Z" finished-at="2021-12-23T16:23:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- confirmButtonVerification -->
-        <test-method status="PASS" signature="alertButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="alertButtonVerification" duration-ms="3061" started-at="2021-12-22T04:30:43Z" finished-at="2021-12-22T04:30:46Z">
+        <test-method status="PASS" signature="alertButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="alertButtonVerification" duration-ms="2960" started-at="2021-12-23T16:23:22Z" finished-at="2021-12-23T16:23:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- alertButtonVerification -->
-        <test-method status="PASS" signature="enableButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="enableButtonVerification" duration-ms="1271" started-at="2021-12-22T04:30:46Z" finished-at="2021-12-22T04:30:48Z">
+        <test-method status="PASS" signature="enableButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="enableButtonVerification" duration-ms="945" started-at="2021-12-23T16:23:25Z" finished-at="2021-12-23T16:23:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enableButtonVerification -->
-        <test-method status="PASS" signature="webTableContentVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="webTableContentVerification" duration-ms="750" started-at="2021-12-22T04:30:48Z" finished-at="2021-12-22T04:30:48Z">
+        <test-method status="PASS" signature="webTableContentVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="webTableContentVerification" duration-ms="839" started-at="2021-12-23T16:23:26Z" finished-at="2021-12-23T16:23:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- webTableContentVerification -->
-        <test-method status="PASS" signature="showButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="showButtonVerification" duration-ms="1074" started-at="2021-12-22T04:30:48Z" finished-at="2021-12-22T04:30:49Z">
+        <test-method status="PASS" signature="showButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="showButtonVerification" duration-ms="1037" started-at="2021-12-23T16:23:26Z" finished-at="2021-12-23T16:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- showButtonVerification -->
-        <test-method status="PASS" signature="hideButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="hideButtonVerification" duration-ms="595" started-at="2021-12-22T04:30:49Z" finished-at="2021-12-22T04:30:50Z">
+        <test-method status="PASS" signature="hideButtonVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="hideButtonVerification" duration-ms="625" started-at="2021-12-23T16:23:27Z" finished-at="2021-12-23T16:23:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hideButtonVerification -->
-        <test-method status="PASS" signature="mouseHoverAndReloadVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="mouseHoverAndReloadVerification" duration-ms="10387" started-at="2021-12-22T04:30:50Z" finished-at="2021-12-22T04:31:00Z">
+        <test-method status="PASS" signature="mouseHoverAndReloadVerification()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="mouseHoverAndReloadVerification" duration-ms="8853" started-at="2021-12-23T16:23:28Z" finished-at="2021-12-23T16:23:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mouseHoverAndReloadVerification -->
-        <test-method status="PASS" signature="countLinkMainPage()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="countLinkMainPage" duration-ms="249" started-at="2021-12-22T04:31:00Z" finished-at="2021-12-22T04:31:01Z">
+        <test-method status="PASS" signature="countLinkMainPage()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="countLinkMainPage" duration-ms="97" started-at="2021-12-23T16:23:37Z" finished-at="2021-12-23T16:23:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- countLinkMainPage -->
-        <test-method status="PASS" signature="countLinkIFrame()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="countLinkIFrame" duration-ms="1301" started-at="2021-12-22T04:31:01Z" finished-at="2021-12-22T04:31:02Z">
+        <test-method status="PASS" signature="countLinkIFrame()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="countLinkIFrame" duration-ms="860" started-at="2021-12-23T16:23:37Z" finished-at="2021-12-23T16:23:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- countLinkIFrame -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="tearDown" is-config="true" duration-ms="1643" started-at="2021-12-22T04:31:02Z" finished-at="2021-12-22T04:31:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Academy.HomePageTestCases@3d246ea3]" name="tearDown" is-config="true" duration-ms="2196" started-at="2021-12-23T16:23:38Z" finished-at="2021-12-23T16:23:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
